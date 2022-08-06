@@ -1,0 +1,89 @@
+ header {
+    font-size: 32px;
+
+   }
+  #head {
+    font-size: 32px;
+    padding-top: 100px;
+  }
+  #navbar {
+    margin-top: 70px;
+    position: fixed;
+    width: 280px;
+    left: 0px;
+    border-right: 1px solid #000;
+    height: 100%;
+    text-align: center;
+  }
+
+  .caption{
+    font-size: small;
+    
+  }
+
+  .nav-link {
+    display: block;
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    border-top: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 10px;
+  }
+
+  .fa {
+    height: 45;
+    width: 45;
+  }
+
+  .flex {
+    margin-left: 3px;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .navbar-brand{
+
+  }
+
+  
+  .main-document {
+    margin-top: 70px;
+    margin-left: 300px;
+    font-family: arial;
+    font-size: auto;
+    color: #4d4e53;
+  }
+  
+  .main-header {
+    padding-top: 70px;
+    font-size: 25px;
+  }
+  
+  header{
+    font-size: 25px;
+  }
+  .headers{
+    height: 60px;
+  }
+  
+  .cod {
+    border-radius: 2px;
+    background-color: whitesmoke;
+    line-height: 30px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin: 10px;
+    color: black;
+    padding: 14px;
+    line-height: 2;
+    text-align: left;
+    position: relative;
+    display: block;
+  }
+  
+  
+  
